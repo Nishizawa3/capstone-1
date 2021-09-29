@@ -1,0 +1,37 @@
+*{
+	font-family: 'Amatic SC', cursive;
+}
+
+body{
+	  background: url(./portfolio_img/body_bg.png) center center / cover no-repeat fixed;
+}
+
+.navbar{
+	font-family: 'Amatic SC', cursive;
+	border-bottom: solid 1px #f2f2f2;
+}
+
+.jumbotron {
+    background-image: url(./portfolio_img/0-1.jpg);
+    background-size: cover;
+    background-position: center 60%;
+    color:#0000e6;
+    height: 400px;
+}
+
+.carousel-inner img{
+	height: 300px;
+}
+
+.pre-footer {
+	background: #4d4d4d;
+}
+
+.flex-column{
+	
+}
+
+.footer {
+	background: #333333;
+	text-align: center;
+}
