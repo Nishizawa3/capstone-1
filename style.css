@@ -3,20 +3,31 @@
 }
 
 body{
-	  background: url(./portfolio_img/body_bg.png) center center / cover no-repeat fixed;
+	  background: url(./portfolio_img/bg_dark.jpg) center center / cover no-repeat fixed;
+	  color: white;
+}
+
+.test {
+	padding-top:100px;
 }
 
 .navbar{
 	font-family: 'Amatic SC', cursive;
-	border-bottom: solid 1px #f2f2f2;
+}
+
+.navbar-toggler-icon {
+  background-image: white;
+}
+
+.navbar-toggler{
+  background-color: #ffffff;
 }
 
 .jumbotron {
-    background-image: url(./portfolio_img/0-1.jpg);
+    background-image: url(./portfolio_img/black.png);
     background-size: cover;
     background-position: center 60%;
-    color:#0000e6;
-    height: 400px;
+    height: 500px;
 }
 
 .carousel-inner img{
