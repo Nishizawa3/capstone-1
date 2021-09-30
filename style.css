@@ -1,5 +1,10 @@
 *{
 	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+}
+
+#home{
+	font-size: 40px;
 }
 
 body{
@@ -13,6 +18,11 @@ body{
 
 .navbar{
 	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+}
+
+.navbar-brand{
+	font-size: 30px;
 }
 
 .navbar-toggler-icon {
@@ -32,6 +42,10 @@ body{
 
 .carousel-inner img{
 	height: 300px;
+}
+
+.modal-title, .modal-body, .modal-footer{
+	color: black;
 }
 
 .pre-footer {
