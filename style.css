@@ -7,6 +7,10 @@
 	font-size: 40px;
 }
 
+#projects, #home, #contact, #about {
+	font-size: 32px;
+}
+
 body{
 	  background: url(./portfolio_img/bg_dark.jpg) center center / cover no-repeat fixed;
 	  color: white;
